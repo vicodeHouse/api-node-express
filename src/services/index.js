@@ -1,5 +1,5 @@
-const dbRelational = require("./db/db");
+const db = require("./db/db");
 
 module.exports = {
-  dbRelational,
+  db,
 };
